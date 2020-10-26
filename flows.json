@@ -1,0 +1,1 @@
+[{"id":"ebc7152e.68ab28","type":"function","z":"e3c5e16a.51079","name":"input parsing","func":"msg.payload=msg.payload.text;\nreturn msg;","outputs":1,"noerr":0,"initialize":"","finalize":"","x":210,"y":260,"wires":[["684e9650.ee84b8","d4a4d4d4.8687e8"]]}]
